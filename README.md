@@ -83,7 +83,7 @@ The game loop runs in the `main()` function, where the player is prompted to dep
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](/.license.md) file for details.
 
 ---
 
